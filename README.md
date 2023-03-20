@@ -56,7 +56,7 @@ Once the raw data are downloaded, pickled files and numpy compressed files on wh
 ## 4. Running Instructions
 Once the input features are generated, we will build our translation of cellular response prediction (TCRP) model. This model consists of a neural network trained by a two-phase design, as outlined by the schematic below:
 
-<img src="images/Figure1_github-01.png" alt="Model overview" width="60%"/>
+<img src="Figure1_github-01.png" alt="Model overview" width="60%"/>
 
 First, use the *pipelines/prepare_complete_run.py* file to produce slurm submission scripts for generating the TCRP and baseline models. You must specify the run_mode ("tcrp" or "baseline") and run_name
 
