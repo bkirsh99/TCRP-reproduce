@@ -1,0 +1,342 @@
+Name,Source,Lineage,Primary Disease,Subtype,primary_hist,Gender,Age,Primary/Metastasis,Achilles culture medium
+143B_BONE,CCLE,Osteosarcoma,Bone sarcoma,Osteosarcoma,osteosarcoma,female,13.0,primary,EMEM; 10% FBS; 0.015 mg/ml 5-bromo-2'-seoxyuridine
+42MGBA_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,,,,RPMI 1640 + EMEM (1:1): 80.0%
+5637_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,RPMI-1640: 90.0%
+59M_OVARY,CCLE,Ovary,Ovarian,,carcinoma,,,,"DMEM; 10% FBS + 2 mM Glutamine, sodium pyruvate, ITS"
+639V_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,DMEM; 10% FBS
+647V_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,"DMEM; 15% FBS, 2mMGlutamax-1"
+769P_KIDNEY,CCLE,Kidney,Renal,Renal clear cell carcinoma,carcinoma,female,63.0,primary,RPMI; 10% FBS
+786O_KIDNEY,CCLE,Kidney,Renal,Renal clear cell carcinoma,carcinoma,male,58.0,primary,RPMI; 10% FBS
+8305C_THYROID,CCLE,Thyroid,Thyroid,,carcinoma,,,,RPMI-1640: 85.0%
+8MGBA_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,,,,EMEM: 80.0%
+A2058_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,43.0,metastasis,DMEM; 10% FBS
+A2780_OVARY,CCLE,Ovary,Ovarian,Ovarian adenocarcinoma,carcinoma,female,,primary,RPMI; 10% FBS
+A549_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,male,58.0,primary,DMEM; 10% FBS
+ABC1_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,male,47.0,primary,EMEM; 10% FBS
+AGS_STOMACH,CCLE,Stomach,Gastric,Gastric adenocarcinoma,carcinoma,female,54.0,primary,F12K; 10% FBS
+ASPC1_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas ductal carcinoma,carcinoma,female,62.0,metastasis,RPMI; 10% FBS
+AU565_BREAST,CCLE,Breast,Breast,Breast adenocarcinoma,carcinoma,female,43.0,metastasis,DMEM; 10% FBS
+BC3C_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,M10
+BFTC905_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,DMEM: 90.0%
+BFTC909_KIDNEY,CCLE,Kidney,Renal,Renal transitional cell carcinoma,carcinoma,male,64.0,primary,DMEM; 10% FBS
+BHY_UPPER_AERODIGESTIVE_TRACT,CCLE,Upper Aerodigestive,Head and Neck,,carcinoma,male,,,DMEM; 10% FBS
+BICR22_UPPER_AERODIGESTIVE_TRACT,CCLE,Upper Aerodigestive,Head and Neck,,carcinoma,male,,primary,DMEM; 10% FBS; 2mM Glutamine; 0.4ug/ml hydrocortisone
+BICR6_UPPER_AERODIGESTIVE_TRACT,CCLE,Upper Aerodigestive,Head and Neck,,carcinoma,male,,,DMEM; 10% FBS
+BT549_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,72.0,primary,RPMI; 10% FBS; 10 ug/ml insulin
+C2BBE1_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,72.0,primary,DMEM; 10% FBS; 0.01mg/ml transferrin; 2 mM glutamine
+C32_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,53.0,primary,EMEM; 10% FBS; 0.1mM NEAA
+CAKI1_KIDNEY,CCLE,Kidney,Renal,Renal clear cell carcinoma,carcinoma,male,49.0,metastasis,McCoy's 5A; 10% FBS
+CAKI2_KIDNEY,CCLE,Kidney,Renal,Renal clear cell carcinoma,carcinoma,male,69.0,primary,McCoy's 5A; 10% FBS
+CAL27_UPPER_AERODIGESTIVE_TRACT,CCLE,Upper Aerodigestive,Head and Neck,,carcinoma,male,56.0,primary,DMEM; 10% FBS
+CAL29_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,DMEM; 10% FBS
+CAL51_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,45.0,metastasis,DMEM; 20% FBS
+CAL78_BONE,CCLE,Chondrosarcoma,chondrosarcoma,,chondrosarcoma,,,,"RPMI-1640, 20% FBS"
+CALU6_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Undifferentiated lung carcinoma,carcinoma,female,61.0,primary,EMEM; 10% FBS
+CAMA1_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,51.0,metastasis,EMEM; 10% FBS
+CAOV3_OVARY,CCLE,Ovary,Ovarian,Ovarian adenocarcinoma,carcinoma,female,54.0,primary,DMEM; 10% FBS
+CAS1_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,male,63.0,primary,DMEM; 10% FBS
+CCFSTTG1_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,,,,RPMI; 10% FBS
+CCK81_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,,,,"EMEM, 10% FBS"
+CFPAC1_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas ductal carcinoma,carcinoma,male,26.0,primary,DMEM; 10% FBS
+CHAGOK1_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,male,45.0,primary,RPMI; 10% FBS; 2mM glutamine
+CHP212_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,,,,EMEM:F12 (1:1); 10% FBS
+CJM_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,,,metastasis,Hams F-12; 10% FBS
+CL40_LARGE_INTESTINE,CCLE,Colorectal,colorectal,,carcinoma,,,,"DMEM/F-12 (1:1), 20% FBS"
+COLO678_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon carcinoma,carcinoma,male,,,RPMI; 10% FBS
+COLO679_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,female,47.0,metastasis,RPMI; 10% FBS
+COLO792_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,62.0,metastasis,RPMI; 10% FBS
+COLO800_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,14.0,primary,RPMI-1640; 10%FBS
+CORL279_LUNG,CCLE,Lung (SCL),Lung SCLC,,carcinoma,male,63.0,metastasis,RPMI; 10% FBS; 2mM glutamine
+CORL47_LUNG,CCLE,Lung (SCL),Lung SCLC,,carcinoma,,,,RPMI; 10% FBS
+COV318_OVARY,CCLE,Ovary,Ovarian,Serous carcinoma,carcinoma,female,,primary,EMEM; 10% FBS
+COV362_OVARY,CCLE,Ovary,Ovarian,Ovarian carcinoma,carcinoma,female,,primary,DMEM; 10% FBS; 2mM L-glutamine
+COV434_OVARY,CCLE,Ovary,Ovarian,,sex_cord-stromal_tumour,female,,primary,DMEM; 10% FBS; 2mM L-glutamine
+COV504_OVARY,CCLE,Ovary,Ovarian,Serous ovarian carcinoma,carcinoma,female,,primary,DMEM; 10% FBS; 2mM L-glutamine
+COV644_OVARY,CCLE,Ovary,Ovarian,Ovarian carcinoma,carcinoma,female,,primary,DMEM; 10% FBS; 2mM L-glutamine
+D283MED_CENTRAL_NERVOUS_SYSTEM,CCLE,Medulloblastoma,Medulloblastoma,,primitive_neuroectodermal_tumour-medulloblastoma,male,,,"DMEM; 10% FBS; 2mM L-glutamine, 2mM sodium pyruvate"
+D341MED_CENTRAL_NERVOUS_SYSTEM,CCLE,Medulloblastoma,Medulloblastoma,,primitive_neuroectodermal_tumour-medulloblastoma,male,,,DMEM:F12 (1:1); 15% FBS
+DANG_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,,,,RPMI-1640: 90.0%
+DAOY_CENTRAL_NERVOUS_SYSTEM,CCLE,Medulloblastoma,Medulloblastoma,,primitive_neuroectodermal_tumour-medulloblastoma,,,,EMEM: 90.0% 10%FBS
+DETROIT562_UPPER_AERODIGESTIVE_TRACT,CCLE,Upper Aerodigestive,upper_aerodigestive,,carcinoma,female,,,EMEM; 10% FBS
+DKMG_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,female,67.0,primary,RPMI; 10% FBS; 2mM glutamine
+DLD1_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,,primary,RPMI; 10% FBS
+DU4475_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,70.0,metastasis,RPMI; 10% FBS
+EFM19_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,50.0,metastasis,RPMI; 10% FBS
+EFO21_OVARY,CCLE,Ovary,Ovarian,Serous ovarian carcinoma,carcinoma,female,56.0,metastasis,RPMI; 20% FBS; 0.1mM NEAA; 1mM Sodium Pyruvate
+EFO27_OVARY,CCLE,Ovary,Ovarian,Mucinous ovarian carcinoma,carcinoma,female,36.0,metastasis,RPMI; 20% FBS; 0.1mM NEAA; 1mM Sodium Pyruvate
+EKVX_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,,,primary,RPMI; 10% FBS
+EPLC272H_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,57.0,primary,RPMI; 20% FBS
+ES2_OVARY,CCLE,Ovary,Ovarian,Ovarian clear cell carcinoma,carcinoma,female,47.0,primary,RPMI; 10% FBS
+ESS1_ENDOMETRIUM,CCLE,Endometrium,Endometrial,Endometrial carcinosarcoma,carcinoma,female,76.0,primary,RPMI; 20% FBS
+F5_CENTRAL_NERVOUS_SYSTEM,"Dunn Lab, Harvard",Meningioma,Meningioma,,meningioma,male,,,RPMI; 10% FBS
+FADU_UPPER_AERODIGESTIVE_TRACT,CCLE,Upper Aerodigestive,upper_aerodigestive,,carcinoma,male,,,EMEM; 10% FBS
+FU97_STOMACH,CCLE,Stomach,Gastric,Gastric diffuse adenocarcinoma,carcinoma,female,,,DMEM;10% FBS; Human Insulin: 0.01 mg/mL
+G292CLONEA141B1_BONE,CCLE,Osteosarcoma,Bone sarcoma,Osteosarcoma,osteosarcoma,,,,McCoy's 5A; 10% FBS
+G401_SOFT_TISSUE,CCLE,Soft Tissue,Rhabdoid,,rhabdoid_tumour,male,0.25,primary,McCoy's 5A; 10% FBS
+GAMG_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,,,,"DMEM, 10%FBS, 2mM Glutamax-1"
+GB1_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,male,35.0,primary,EMEM; 10% FBS
+GCIY_STOMACH,CCLE,Stomach,Gastric,Gastric adenocarcinoma,carcinoma,female,,primary,MEM; 15% FBS
+GI1_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,,,,DMEM: 90.0%
+GSS_STOMACH,CCLE,Stomach,Gastric,Gastric adenocarcinoma,carcinoma,,,,RPMI; 10% FBS
+H4_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,,,,DMEM: 90.0%
+HARA_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,57.0,primary,RPMI; 10% FBS
+HCC1143_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,52.0,primary,RPMI; 10% FBS
+HCC1359_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Large cell lung carcinoma,carcinoma,female,55.0,primary,RPMI; 10% FBS
+HCC1395_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,43.0,primary,RPMI; 10% FBS
+HCC1419_BREAST,CCLE,Breast,Breast,,carcinoma,,,,RPMI-1640: 90.0%
+HCC1428_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,49.0,metastasis,RPMI; 10% FBS
+HCC15_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,47.0,primary,RPMI; 10% FBS
+HCC1806_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,60.0,primary,RPMI; 10% FBS
+HCC1937_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,24.0,primary,RPMI; 10% FBS
+HCC1954_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,61.0,primary,RPMI; 10% FBS
+HCC202_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,82.0,primary,RPMI; 10% FBS
+HCC56_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,,,,EMEM; 10% FBS
+HCC827_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,female,39.0,primary,RPMI; 10% FBS
+HCC95_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,65.0,primary,RPMI; 10% FBS
+HEC1A_ENDOMETRIUM,CCLE,Endometrium,Endometrial,Endometrial adenocarcinoma; uterus,carcinoma,female,71.0,primary,McCoy's 5A; 10% FBS
+HEC1B_ENDOMETRIUM,CCLE,Endometrium,endometrium,,carcinoma,,,,EMEM; 10%FBS
+HEC251_ENDOMETRIUM,CCLE,Endometrium,Endometrial,Endometrial adenocarcinoma; uterus,carcinoma,female,,primary,EMEM; 0.15% FBS
+HEC50B_ENDOMETRIUM,CCLE,Endometrium,Endometrial,Endometrial adenocarcinoma; uterus,carcinoma,female,,primary,EMEM; 15% FBS
+HEC59_ENDOMETRIUM,CCLE,Endometrium,Endometrial,Endometrial adenocarcinoma; uterus,carcinoma,female,,primary,EMEM; 0.15% FBS
+HEC6_ENDOMETRIUM,CCLE,Endometrium,endometrium,,carcinoma,,,,EMEM; 15% FBS
+HEYA8_OVARY,CCLE,Ovary,Ovarian,Ovarian carcinoma,carcinoma,female,,primary,RPMI; 10% FBS
+HGC27_STOMACH,CCLE,Stomach,Gastric,Gastric carcinoma,carcinoma,,,,Minimum Essential Media (MEM); 10% FBS; NEAA( Non-essential Amino Acids): 5.0 ml; L-glutamine: 2.0 mM
+HLF_LIVER,CCLE,Liver,Liver,Hepatocellular Carcinoma,carcinoma,male,69.0,primary,EMEM; 10% FBS
+HMC18_BREAST,CCLE,Breast,Breast,,carcinoma,,,,RPMI-1640: 10%FBS
+HOP62_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,,,primary,RPMI; 10% FBS
+HS294T_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,56.0,metastasis,DMEM; 10% FBS
+HS578T_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,74.0,primary,DMEM; 10% FBS
+HS683_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,male,76.0,primary,DMEM; 10% FBS
+HS695T_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,,,EMEM: 10% FBS
+HS729_SOFT_TISSUE,CCLE,Soft Tissue,Soft Tissue Sarcoma,,rhabdomyosarcoma,,,,DMEM; 5% FBS
+HS766T_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas ductal carcinoma,carcinoma,male,46.0,primary,DMEM; 10% FBS
+HS944T_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,51.0,metastasis,DMEM; 10% FBS
+HSC3_UPPER_AERODIGESTIVE_TRACT,CCLE,Upper Aerodigestive,Head and Neck,,carcinoma,male,64.0,primary,EMEM; 10% FBS
+HT1080_SOFT_TISSUE,CCLE,Soft Tissue,Soft Tissue Sarcoma,Fibroscarcoma,fibrosarcoma,male,35.0,metastasis,EMEM; 10% FBS
+HT115_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon carcinoma,carcinoma,,,,DMEM; 15% FBS; 2mM Glutamax-1
+HT1197_URINARY_TRACT,CCLE,Urinary Tract,Bladder,Bladder carcinoma,carcinoma,male,44.0,primary,EMEM; 10% FBS
+HT1376_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,EMEM; 10% FBS
+HT144_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,,,McCoy's 5A; 10% FBS
+HT55_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,,,primary,EMEM; 20% FBS; 2mM L-glutamine; 0.1mM NEAA
+HUH1_LIVER,CCLE,Liver,Liver,Hepatocellular Carcinoma,carcinoma,male,35.0,primary,DMEM; 10% FBS
+HUH6_LIVER,CCLE,Liver,Liver,,other,,,,DMEM; 10% FBS
+HUH7_LIVER,CCLE,Liver,Liver,Hepatocellular Carcinoma,carcinoma,male,57.0,primary,DMEM; 10% FBS
+HUPT3_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,male,66.0,primary,MEM; 10% FBS
+IGR1_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,42.0,metastasis,DMEM; 10% FBS
+IGR39_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,26.0,primary,DMEM; 15% FBS
+IMR32_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,male,,,EMEM; 10% FBS
+IPC298_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,female,64.0,primary,RPMI; 10% FBS
+JHH1_LIVER,CCLE,Liver,Liver,,carcinoma,male,50.0,primary,William's E Medium; 10% FBS
+JHH4_LIVER,CCLE,Liver,Liver,,carcinoma,,,,EMEM; 10% FBS
+JHH5_LIVER,CCLE,Liver,Liver,Hepatocellular Carcinoma,carcinoma,male,50.0,primary,William's E Medium: 90.0%
+JHH7_LIVER,CCLE,Liver,Liver,,carcinoma,,,,William's E medium with 10% FCS
+JHOC5_OVARY,CCLE,Ovary,Ovarian,Ovarian clear cell carcinoma,carcinoma,female,,primary,DMEM:F12 (1:1); 10% FBS; 0.1mM NEAA
+JHOM1_OVARY,CCLE,Ovary,Ovarian,Ovarian adenocarcinoma,carcinoma,female,,primary,DMEM:F12 (1:1); 10% FBS; 0.1mM NEAA
+JHOS2_OVARY,CCLE,Ovary,Ovarian,Ovarian adenocarcinoma,carcinoma,female,45.0,primary,DMEM/F12 (1:1);10 % FBS;
+JHOS4_OVARY,CCLE,Ovary,Ovarian,Ovarian adenocarcinoma,carcinoma,female,44.0,primary,DMEM:F12 (1:1); 10% FBS
+JIMT1_BREAST,CCLE,Breast,Breast,,carcinoma,,,,RPMI; 10% FBS
+JMSU1_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,RPMI; 10% FBS; 2mM Glutamax-1
+K029AX_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,,,primary,RPMI; 10% FBS
+KALS1_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,female,,primary,RPMI; 5% FBS
+KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,"Weinstock Lab, DFCI",T-cell Lymphoma (ALCL),Lymphoma,ALCL,lymphoid_neoplasm,male,,,"RPMI, 20% FBS, 2 mM L-glutamine"
+KELLY_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,,,,RPMI; 10% FBS
+KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,"Weinstock Lab, DFCI",T-cell Lymphoma (ALCL),Lymphoma,ALCL,lymphoid_neoplasm,male,,,RPMI; 20% FBS
+KLE_ENDOMETRIUM,CCLE,Endometrium,endometrium,,carcinoma,,,,"DMEM/F-12 (1:1), 10%FBS"
+KM12_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,,,primary,RPMI; 10% FBS
+KMBC2_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,DMEM; 10% FBS
+KMRC1_KIDNEY,CCLE,Kidney,Renal,Renal Cell Carcinoma,carcinoma,male,,primary,DMEM; 10% FBS
+KMRC20_KIDNEY,CCLE,Kidney,Renal,Renal Cell Carcinoma,carcinoma,,,primary,DMEM; 10% FBS
+KNS42_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,,,,EMEM; 5% FBS
+KNS60_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,male,55.0,primary,DMEM; 0.05% FBS
+KNS62_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,49.0,primary,EMEM; 20% FBS
+KNS81_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,male,65.0,primary,DMEM; 5% FBS
+KP2_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,female,65.0,primary,RPMI; 10% FBS
+KP3_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas ductal carcinoma,carcinoma,,,,RPMI; 10% FBS
+KP4_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas ductal carcinoma,carcinoma,male,50.0,metastasis,DMEM:F12 (1:1); 10% FBS
+KPL1_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,50.0,metastasis,DMEM; 10% FBS
+KPNYN_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,,,,RPMI; 10% FBS
+KS1_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,,,,MEM; 10% FBS; 2mMGlutamax-1
+KU1919_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,RPMI; 10%heat inactive FBS
+KURAMOCHI_OVARY,CCLE,Ovary,Ovarian,Ovarian undifferentiated carcinoma,carcinoma,female,,primary,RPMI; 10% FBS
+KYSE180_OESOPHAGUS,CCLE,Esophagus,Esophageal,Esophageal squamous carcinoma,carcinoma,male,,,RPMI; 10% FBS
+KYSE270_OESOPHAGUS,CCLE,Esophagus,Esophageal,,carcinoma,,,,RPMI 1640:F12 (1:1): 90.0%
+KYSE30_OESOPHAGUS,CCLE,Esophagus,Esophageal,Esophageal squamous carcinoma,carcinoma,male,64.0,primary,RPMI:F12 (1:1); 20% FBS
+KYSE410_OESOPHAGUS,CCLE,Esophagus,Esophageal,,carcinoma,,,,RPMI-1640: 90.0%
+KYSE450_OESOPHAGUS,CCLE,Esophagus,Esophageal,Esophageal squamous carcinoma,carcinoma,male,59.0,primary,RPMI:HamsF-12(1:1) (RPMI-1640 (Hyclone Cat.# SH30027.02):Hams F-12?ÛÁ(Hyclone Cat.# SH30026.01)); 10% FBS
+KYSE70_OESOPHAGUS,CCLE,Esophagus,Esophageal,Esophageal squamous carcinoma,carcinoma,male,77.0,primary,RPMI; 10% FBS
+LCLC103H_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung large cell carcinoma,carcinoma,male,61.0,metastasis,RPMI; 10% FBS
+LI7_LIVER,CCLE,Liver,Liver,,carcinoma,,,,RPMI; 10% FBS
+LK2_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,,primary,DMEM; 10% FBS
+LN18_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,male,65.0,primary,DMEM; 5% FBS
+LN235_CENTRAL_NERVOUS_SYSTEM,"Lynda Chin, MD Anderson",Glioma,GBM,glioblastoma,glioma,male,,,DMEM; 10% FBS
+LN382_CENTRAL_NERVOUS_SYSTEM,"Lynda Chin, MD Anderson",Glioma,GBM,glioblastoma,glioma,male,,,DMEM; 10% FBS
+LN443_CENTRAL_NERVOUS_SYSTEM,"Mikael Rinne, DFCI",Glioma,GBM,glioblastoma,glioma,male,,,DMEM; 10% FBS
+LNZ308_CENTRAL_NERVOUS_SYSTEM,"Lynda Chin, MD Anderson",Glioma,GBM,glioblastoma,glioma,female,,,DMEM; 10% FBS
+LOVO_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,56.0,metastasis,F12K; 10% FBS
+LS1034_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,,,RPMI; 10% FBS
+LS180_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,female,,,EMEM; 10% FBS
+LS513_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma; Cecum,carcinoma,male,63.0,primary,RPMI; 10% FBS
+LUDLU1_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,72.0,primary,RPMI; 10% FBS
+LXF289_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,63.0,primary,Hams F-12; 10% FBS
+M059K_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,male,33.0,primary,DMEM/F12 (1:1); 10 % FBS
+MALME3M_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,43.0,metastasis,RPMI; 10% FBS
+MCAS_OVARY,CCLE,Ovary,Ovarian,,carcinoma,,,,EMEM:15%FBS
+MDAMB157_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,44.0,metastasis,RPMI; 10% FBS
+MDAMB231_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,51.0,metastasis,RPMI; 10% FBS
+MDAMB415_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,38.0,metastasis,L-15; 15% FBS; 2mM glutamine; 10mcg/mL Insulin; 10mcg/mL Glutathione
+MDAMB435S_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,female,,,RPMI; 10% FBS
+MDAMB436_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,43.0,metastasis,RPMI; 10% FBS; 16ug/ml glutathione
+MDAMB453_BREAST,CCLE,Breast,Breast,Breast adenocarcinoma,carcinoma,female,48.0,metastasis,RPMI; 10% FBS
+MDAMB468_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,51.0,metastasis,DMEM; 10% FBS
+MDST8_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,,,,DMEM; 10% FBS; 2mM Glutamine
+MELHO_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,female,,primary,RPMI; 10% FBS
+MELJUSO_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,female,,,RPMI; 10% FBS
+MFE319_ENDOMETRIUM,CCLE,Endometrium,endometrium,,carcinoma,,,,40% RPMI 1640 + 40% MEM (with Earle's salts) + 20% h.i. FBS
+MHHNB11_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,male,,,RPMI; 10% FBS
+MIAPACA2_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas ductal carcinoma,carcinoma,male,65.0,primary,DMEM; 10% FBS
+MKN45_STOMACH,CCLE,Stomach,Gastric,Gastric diffuse adenocarcinoma,carcinoma,female,62.0,metastasis,RPMI; 10% FBS
+MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,CCLE,AML,Leukemia,AML M5a,haematopoietic_neoplasm,male,20.0,primary,RPMI; 20% FBS
+MORCPR_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,,,primary,RPMI; 10% FBS
+MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,CCLE,AML,Leukemia,AML M5,haematopoietic_neoplasm,male,10.0,primary,IMDM; 10% FBS
+NB1_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,male,,,RPMI; 10% FBS
+NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,CCLE,AML,Leukemia,AML M3,haematopoietic_neoplasm,female,23.0,primary,RPMI; 10% FBS
+NCIH1299_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,male,43.0,metastasis,RPMI; 10% FBS
+NCIH1437_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,6.0,metastasis,RPMI; 10% FBS
+NCIH1581_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Large cell carcinoma,carcinoma,male,44.0,primary,DMEM:F12 (1:1); 10% FBS
+NCIH1650_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,27.0,metastasis,RPMI; 10% FBS
+NCIH1693_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,female,55.0,metastasis,RPMI; 10% FBS
+NCIH1703_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,54.0,primary,RPMI; 10% FBS
+NCIH1792_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,50.0,metastasis,RPMI; 10% FBS
+NCIH1944_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,female,62.0,metastasis,RPMI; 10% FBS
+NCIH2023_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,26.0,metastasis,"DMEM:HAM's F12 (1:1); 5% FBS; .005 mg/ml insulin, .01 mg/ml transferrin, 30nM sodium selenite, 10 nM hydrocortisone, 10 nM beta estradiol, 10 mM HEPES, 2 mM L-glutamine"
+NCIH2030_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,male,,metastasis,RPMI; 10% FBS
+NCIH2087_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,69.0,metastasis,RPMI; 5% FBS
+NCIH2110_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,,,metastasis,RPMI; 10% FBS
+NCIH2122_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,female,46.0,metastasis,RPMI; 10% FBS
+NCIH2126_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,65.0,metastasis,"DMEM:HAM's F12 (1:1); 5% FBS; .005 mg/ml insulin, .01 mg/ml transferrin, 30nM sodium selenite, 10 nM hydrocortisone, 10 nM beta estradiol, 10 mM HEPES, 2 mM L-glutamine"
+NCIH2170_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,,primary,RPMI; 10% FBS
+NCIH2172_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,female,,primary,RPMI; 10% FBS
+NCIH2291_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,male,,metastasis,RPMI; 10% FBS
+NCIH23_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,51.0,primary,RPMI; 10% FBS
+NCIH322_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,52.0,primary,RPMI; 10% FBS; 2mM glutamine
+NCIH441_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,,metastasis,RPMI; 10% FBS
+NCIH460_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,male,,metastasis,RPMI; 10% FBS
+NCIH520_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,,primary,RPMI; 10% FBS
+NCIH716_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,33.0,metastasis,RPMI; 10% FBS
+NCIH747_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,69.0,metastasis,RPMI; 10% FBS
+NCIH838_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,59.0,metastasis,RPMI; 10% FBS
+NCIN87_STOMACH,CCLE,Stomach,Gastric,Gastric carcinoma,carcinoma,male,,metastasis,RPMI; 10% FBS
+NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,CCLE,AML,Leukemia,AML M5a,haematopoietic_neoplasm,female,31.0,primary,RPMI; 10% FBS
+NUGC3_STOMACH,CCLE,Stomach,Gastric,Gastric carcinoma,carcinoma,male,72.0,primary,RPMI; 10% FBS
+OAW28_OVARY,CCLE,Ovary,Ovarian,,carcinoma,,,,DMEM; 10% FBS
+OE21_OESOPHAGUS,CCLE,Esophagus,Esophageal,,carcinoma,,,,RPMI-1640: 90.0%
+OE33_OESOPHAGUS,CCLE,Esophagus,Esophageal,Esophageal adenocarcinoma,other,female,73.0,primary,RPMI; 10% FBS
+ONS76_CENTRAL_NERVOUS_SYSTEM,CCLE,Medulloblastoma,Medulloblastoma,,primitive_neuroectodermal_tumour-medulloblastoma,,,,RPMI; 10% FBS
+OSRC2_KIDNEY,CCLE,Kidney,Renal,Renal Cell Carcinoma,carcinoma,,,primary,RPMI; 10% FBS
+OUMS23_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,,,,DMEM; 10% FBS
+OV7_OVARY,CCLE,Ovary,Ovarian,Ovarian carcinoma,carcinoma,female,78.0,primary,DMEM:F12 (1:1); 5% FBS; 2mM L-glutamine; 0.5ug/ml hydrocortisone; 10ug/ml insulin
+OV90_OVARY,CCLE,Ovary,Ovarian,Ovarian mixed carcinoma; papillary serous adenocarcinoma,carcinoma,female,64.0,metastasis,DMEM; 10% FBS(Tony) [1:1 mixture of MCDB 105 medium with 1.5 g/L sodium bicarbonate added and Medium 199; 10% FBS]
+OVCAR8_OVARY,CCLE,Ovary,Ovarian,Ovarian mixed carcinoma,carcinoma,female,64.0,primary,RPMI; 10% FBS
+OVISE_OVARY,CCLE,Ovary,Ovarian,Ovarian adenocarcinoma,carcinoma,female,40.0,primary,RPMI; 10% FBS
+OVK18_OVARY,CCLE,Ovary,Ovarian,Ovarian carcinoma,carcinoma,,,,MEM10
+OVMANA_OVARY,CCLE,Ovary,Ovarian,Ovarian clear cell carcinoma,carcinoma,female,51.0,primary,RPMI; 10% FBS
+OVTOKO_OVARY,CCLE,Ovary,Ovarian,Ovarian clear cell carcinoma,carcinoma,female,78.0,metastasis,RPMI; 10% FBS
+P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,"Ebert Lab, DFCI",AML,Leukemia,AML,haematopoietic_neoplasm,male,,,RPMI; 10% FBS
+PANC0203_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,female,,,RPMI; 10% FBS; 1mM sodium pyruvate
+PANC0403_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,male,,,RPMI; 15% FBS; 20ug/ml human insulin
+PANC1005_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas ductal carcinoma,carcinoma,male,,primary,RPMI; 15% FBS; 2mM glutamine; 1.5 g/L Sodium bicarbonate; 4.5g/L glucose; 10mM HEPES; 1mM Sodium Pyruvate; 10 units/mL Insulin
+PATU8988S_PANCREAS,CCLE,Pancreas,Pancreas,,carcinoma,,,,"DMEM:;10%FBS, 2mMGlutamax"
+PC14_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,,carcinoma,,,primary,RPMI; 10% FBS
+PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT,CCLE,Upper Aerodigestive,Head and Neck,,carcinoma,male,60.0,primary,IMDM; 10% FBS; 2mM Glutamine
+PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,"Steigmaier Lab, DFCI",T-cell ALL,Leukemia,T-cell_ALL,lymphoid_neoplasm,,,,RPMI; 10% FBS
+PK1_PANCREAS,CCLE,Pancreas,Pancreas,,carcinoma,,,,RPMI-1640:10%FBS
+PK45H_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,,,,RPMI; 10% FBS
+PLCPRF5_LIVER,CCLE,Liver,Liver,Hepatocellular Carcinoma,carcinoma,male,24.0,primary,DMEM; 10% FBS
+PSN1_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas ductal carcinoma,carcinoma,,,primary,RPMI; 10% FBS; 2mM glutamine
+RCC10RGB_KIDNEY,CCLE,Kidney,Renal,Renal Cell Carcinoma,carcinoma,male,,primary,DMEM; 10% FBS
+RD_SOFT_TISSUE,CCLE,Soft Tissue,Rhabdomyosarcoma,Rhabdomyosarcoma,rhabdomyosarcoma,female,7.0,primary,"DMEM:HAM's F12 (1:1); 5% FBS; .005 mg/ml insulin, .01 mg/ml transferrin, 30nM sodium selenite, 10 nM hydrocortisone, 10 nM beta estradiol, 10 mM HEPES, 2 mM L-glutamine"
+RERFLCAD1_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung adenocarcinoma,carcinoma,male,70.0,primary,RPMI; 10% FBS
+RERFLCAI_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,,primary,EMEM; 10% FBS
+RH30_SOFT_TISSUE,CCLE,Soft Tissue,Rhabdomyosarcoma,Rhabdomyosarcoma,rhabdomyosarcoma,male,17.0,metastasis,RPMI; 10% FBS
+RKN_SOFT_TISSUE,CCLE,Ovary,Soft Tissue Sarcoma,Leiomyosarcoma,leiomyosarcoma,female,45.0,primary,Hams F-12; 10% FBS
+RKO_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,,,primary,MEM; 10% FBS
+RMUGS_OVARY,CCLE,Ovary,Ovarian,Ovarian adenocarcinoma,carcinoma,female,62.0,primary,Hams F-12; 10% FBS
+RPMI7951_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,female,18.0,metastasis,RPMI; 10% FBS
+RT112_URINARY_TRACT,CCLE,Urinary Tract,Bladder,Bladder carcinoma; transitional cell,carcinoma,female,,primary,RPMI; 10% FBS
+RT11284_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,EMEM; 10% FBS;2mMGlutamax; 1%NEAA
+RT4_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,M10
+RVH421_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,,,RPMI; 10% FBS
+SCABER_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,"E10+ L-glutamine: 2.0 mM, NEAA( Non-essential Amino Acids): 0.1 mM, Sodium Pyruvate: 0.1 mM"
+SF295_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,glioblastoma,glioma,female,67.0,primary,RPMI; 10% FBS
+SF767_CENTRAL_NERVOUS_SYSTEM,"Lynda Chin, MD Anderson",Glioma,GBM,astrocytoma,glioma,female,,,DMEM; 10% FBS
+SH10TC_STOMACH,CCLE,Stomach,Gastric,Gastric carcinoma,carcinoma,,,,RPMI; 10% FBS
+SIMA_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,male,,,RPMI; 10% FBS
+SJSA1_BONE,CCLE,Osteosarcoma,Bone sarcoma,Osteosarcoma,osteosarcoma,male,19.0,primary,RPMI; 10% FBS
+SKBR3_BREAST,CCLE,Breast,Breast,Breast carcinoma,carcinoma,female,43.0,metastasis,McCoy's 5A; 10% FBS
+SKHEP1_LIVER,CCLE,Liver,Liver,Hepatocellular adenocarcinoma,carcinoma,male,52.0,metastasis,EMEM; 10% FBS
+SKMEL24_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,67.0,metastasis,EMEM; 10% FBS
+SKMEL30_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,male,67.0,metastasis,RPMI; 10% FBS
+SKMES1_LUNG,CCLE,Lung (NSCLC),Lung NSCLC,Lung squamous carcinoma,carcinoma,male,65.0,metastasis,DMEM; 10% FBS
+SKNAS_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,female,,,DMEM; 10% FBS; NEAA
+SKNBE2_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,male,,,EMEM:F12 (1:1); 10% FBS
+SKNDZ_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,female,,,DMEM; 10% FBS; NEAA
+SKNFI_AUTONOMIC_GANGLIA,CCLE,Neuroblastoma,Neuroblastoma,,neuroblastoma,male,,,DMEM; 10% FBS; NEAA
+SKNMC_BONE,CCLE,Ewing Sarcoma,Bone sarcoma,Ewings,Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour,female,,,EMEM; 10% FBS
+SKOV3_OVARY,CCLE,Ovary,Ovarian,Ovarian adenocarcinoma,carcinoma,female,64.0,metastasis,McCoy's 5A; 10% FBS
+SLR20_KIDNEY,"Kaelin Lab, DFCI",Kidney,Renal,Renal Cell Carcinoma,carcinoma,,,primary,RPMI; 10% FBS
+SLR23_KIDNEY,"Kaelin Lab, DFCI",Kidney,Renal,Renal Cell Carcinoma,carcinoma,,,primary,RPMI;10% FBS w/ kanamycin
+SLR26_KIDNEY,"Kaelin Lab, DFCI",Kidney,Renal,Renal Cell Carcinoma,carcinoma,,,primary,RPMI; 10% FBS
+SNGM_ENDOMETRIUM,CCLE,Endometrium,endometrium,,carcinoma,,,,Ham F-12: 80.0%
+SNU1_STOMACH,CCLE,Stomach,Gastric,,carcinoma,,,,RPMI-1640: 90.0%
+SNU201_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,glioblastoma,glioma,male,58.0,primary,RPMI; 10% FBS
+SNU213_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,male,,,"RPMI; 10% FBS, 2mM L-glutamine"
+SNU349_KIDNEY,CCLE,Kidney,Renal,Renal Cell Carcinoma,carcinoma,male,68.0,primary,RPMI; 10% FBS
+SNU398_LIVER,CCLE,Liver,Liver,,carcinoma,,,,RPMI; 10% FBS
+SNU410_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,male,,,RPMI; 10% FBS
+SNU449_LIVER,CCLE,Liver,Liver,,carcinoma,,,,RPMI; 10% FBS
+SNU503_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon carcinoma,carcinoma,male,,,RPMI; 10% FBS
+SNU685_ENDOMETRIUM,CCLE,Endometrium,Endometrial,Endometrial carcinosarcoma,carcinoma,female,,,RPMI; 10% FBS
+SNU8_OVARY,CCLE,Ovary,Ovarian,Ovarian carcinoma,carcinoma,female,55.0,primary,RPMI; 10% FBS
+SNU840_OVARY,CCLE,Ovary,Ovarian,Ovarian carcinoma,carcinoma,female,45.0,primary,RPMI; 10% FBS
+SUIT2_PANCREAS,CCLE,Pancreas,Pancreas,,carcinoma,,,,RPMI; 10% FBS
+SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,"Weinstock Lab, DFCI",T-cell Lymphoma (ALCL),Lymphoma,ALCL,lymphoid_neoplasm,female,,,RPMI; 20% FBS
+SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,"Steigmaier Lab, DFCI",T-cell ALL,Leukemia,T-ALL,lymphoid_neoplasm,male,8.0,metastasis,RPMI; 10% FBS
+SW1463_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,female,,,RPMI; 10% FBS
+SW403_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,female,51.0,primary,Leibovitz's L-15; 10%FBS
+SW48_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,female,82.0,primary,RPMI; 10% FBS
+SW620_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,51.0,metastasis,L-15; 10% FBS
+SW837_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,53.0,primary,RPMI; 10% FBS
+T24_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,McCoy 5A: 90.0%
+T3M4_PANCREAS,CCLE,Pancreas,Pancreas,,carcinoma,,,,Ham F-10: 90.0%;10%FBS
+T84_LARGE_INTESTINE,CCLE,Colorectal,Colon,Colon adenocarcinoma,carcinoma,male,,,DMEM:F12(1:1); 5% FBS; 2mM Glutamine
+T98G_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,male,61.0,primary,EMEM; 10% FBS
+TCCPAN2_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,female,,,RPMI; 10% FBS
+TCCSUP_URINARY_TRACT,CCLE,Urinary Tract,Bladder,Bladder carcinoma; transitional cell,carcinoma,female,67.0,primary,EMEM; 10% FBS; 1mM NEAA; 1mM Sodium Pyruvate
+TE1_OESOPHAGUS,CCLE,Esophagus,Esophageal,Esophageal squamous carcinoma,carcinoma,male,,,RPMI; 10% FBS
+TE5_OESOPHAGUS,CCLE,Esophagus,Esophageal,Esophageal squamous carcinoma,carcinoma,,,,RPMI; 10% FBS
+TEN_ENDOMETRIUM,CCLE,Endometrium,endometrium,,carcinoma,,,,MEM;10%FBS
+TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,CCLE,AML,Leukemia,AML,haematopoietic_neoplasm,male,,,RPMI-1640: 10%FBS; 2ng/ml GM-CSF
+THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,CCLE,AML,Leukemia,AML M5 (Monocytic),haematopoietic_neoplasm,male,1.0,primary,RPMI; 10% FBS; 50uM B-mercaptoethanol
+TOV21G_OVARY,CCLE,Ovary,Ovarian,Clear cell carcinoma,carcinoma,female,62.0,primary,MCDB 105:Medium 199 (1:1); 15% FBS
+TUHR10TKB_KIDNEY,CCLE,Kidney,Renal,Renal Cell Carcinoma,carcinoma,,,primary,RPMI; 10% FBS
+TUHR4TKB_KIDNEY,CCLE,Kidney,Renal,Renal Cell Carcinoma,carcinoma,,,primary,DMEM; 10% FBS
+U118MG_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,astrocytoma,glioma,male,,primary,DMEM; 10% FBS
+U178_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,glioblastoma,glioma,male,,,DMEM; 10% FBS
+U251MG_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,astrocytoma,glioma,male,,primary,DMEM; 10% FBS
+U2OS_BONE,CCLE,Osteosarcoma,Bone sarcoma,Osteosarcoma,osteosarcoma,female,15.0,primary,McCoy's 5A; 10% FBS
+U343_CENTRAL_NERVOUS_SYSTEM,"Lynda Chin, MD Anderson",Glioma,GBM,glioblastoma,glioma,,,,DMEM; 10% FBS
+U87MG_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,astrocytoma,glioma,female,44.0,primary,EMEM; 10% FBS
+U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,"Ebert Lab, DFCI",Lymphoma (DLBCL),Lymphoma,?,lymphoid_neoplasm,male,37.0,metastasis,RPMI; 10% FBS
+UACC257_SKIN,CCLE,Melanoma,Melanoma,,malignt_melanoma,,,primary,RPMI; 10% FBS
+UACC62_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,,,,RPMI; 10% FBS
+UMUC3_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,EMEM; 10% FBS
+UOK101_KIDNEY,"Kaelin Lab, DFCI",Kidney,Renal,Renal Cell Carcinoma,carcinoma,female,,,DMEM; 10% FBS
+VMCUB1_URINARY_TRACT,CCLE,Urinary Tract,Urinary tract,,carcinoma,,,,DMEM; 10%FBS
+WM115_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,female,,,EMEM; 10% FBS
+WM1799_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,,,,RPMI; 10% FBS
+WM2664_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,female,,,DMEM; 10% FBS
+WM793_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,,,,RPMI; 10% FBS
+WM983B_SKIN,CCLE,Melanoma,Melanoma,,malignant_melanoma,,,,RPMI; 10% FBS
+YAPC_PANCREAS,CCLE,Pancreas,Pancreas,Pancreas carcinoma,carcinoma,male,,,RPMI; 10% FBS
+YKG1_CENTRAL_NERVOUS_SYSTEM,CCLE,Glioma,GBM,,glioma,female,,primary,DMEM; 10% FBS
+ZR751_BREAST,CCLE,Breast,Breast,Breast ductal carcinoma,carcinoma,female,,,RPMI; 10% FBS
