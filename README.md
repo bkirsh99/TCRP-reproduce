@@ -22,7 +22,6 @@ This codebase contains the instructions, data, and code required to reproduce an
      
      3.4. [Performace Assessment](#34-performance-assessment)
      
-4. [Sample Run](#4-sample-run)
 
 ## 1. Directory Structure
 
@@ -90,6 +89,8 @@ Task-specific features and labels can be generated using the jupyter notebook *.
 
 If you choose to use your own input datasets, change the pointer variables in the beginning of the notebooks to update file names/locations.
 
+The features for all cell lines used in Challenge 1b have been uploaded to *./tcrp_model/data/output/cell_line_lists*. The labels for one drug used in Challenge 1b have also been uploaded to *../tcrp_model/data/output/drug_feature.* You can use these to build your own model or simply to verify that the outputs of you preprocessing steps are correct.
+
 #### Step 2: Complete Run
 
 A complete of the pipeline consists of both pre-training (phase I) and fine-tuning (phase II) the TCRP model, as well as generating all 4 baseline models. This can be done using the jupyter notebook *./tcrp_model/pipelines/complete_run.ipynb.*
@@ -99,13 +100,6 @@ More detailed instructions on how to run each step of the pipeline are provided 
 ### 3.4. Performance Assessment
 
 Plots comparing the performance of the TCRP model relative to the 4 baselines can be generated using the jupyter notebook *./tcrp_model/model_comparisons/plot_results.ipynb.* Once again, details and additional commentary are provided inside the notebook.
-
-## 4. Sample Run
-
-The *./tcrp_model/sample/* folder contains sample input files required for a complete run. It also contains the scripts necessary for that run and the output that would have been generated after executing them.
-
-This folder follows a similar directory structure as the main project, and its purpose is to simulate  Please use option ‘-tissue_list’ to specify the file to use.
-Please also prepare a ‘task list’ file to store the detailed information of each sub-task in the pre-training phase. It is a Python dictionary stored in a pickle file. The key of that dictionary is the name of the sub-task, which should be the same as the feature and label file. For example, if the sub-task is called ‘lung’, then the corresponding feature and label files should be ‘lung_Sorafenib_feature.npy’ and ‘large_Sorafenib_label.npy’, respectively. 
 
 ## Acknowledgments
 
