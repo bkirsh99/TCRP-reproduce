@@ -89,7 +89,7 @@ Task-specific features and labels can be generated using the jupyter notebook *.
 
 If you choose to use your own input datasets, change the pointer variables in the beginning of the notebooks to update file names/locations.
 
-The features for all cell lines used in Challenge 1b have been uploaded to *./tcrp_model/data/output/cell_line_lists*. The labels for one drug used in Challenge 1b have also been uploaded to *./tcrp_model/data/output/drug_feature.* You can use these to build your own model or simply to verify that the outputs of you preprocessing steps are correct.
+**Note:** The features for **all** cell lines used in Challenge **1b** have been uploaded to *./tcrp_model/data/output/cell_line_lists*. The labels for **two** of the drug used in Challenge **1b** (Camptothecin and GSK429286A) have also been uploaded to *./tcrp_model/data/output/drug_feature.* You can use these to run the commands below and build your own model, or simply help verify, debug, and troubleshoot your own preprocessing outputs.
 
 #### Step 2: Complete Run
 
