@@ -69,7 +69,7 @@ For each gene disruption (a) and drug (b) learning problem, one tissue is held o
 
 The baseline models are  trained by conventional learning approaches, including Random Forest (RF), Neural Network (NN), K-Nearest Neighbors (KNN), and Linear Regression (LR).
 
-<img src="images/Figure1_github-01.png" alt="Model overview" width="60%"/>
+<img src="Figure1_github-01.png" alt="Model overview" width="60%"/>
 
 ### 3.2. Installation Instructions
 
