@@ -10,9 +10,9 @@ The authors' original codebase can be accessed [here](https://github.com/idekerl
 This codebase contains the instructions, data, and code required to reproduce and replicate the figures from **Challenge 1** of the original study, which investigated the transfer of CRISPR (1a) and drug (1b) response models for prediction in the context of a new tissue.
 
 ## Table of Contents
-1. [Directory Structure](#2-directory-structure)
-2. [Datasets Documentation](#3-datasets-documentation)
-3. [Step-by-Step Running Guide](#5-step-by-step-running-guide)
+1. [Directory Structure](#1-directory-structure)
+2. [Datasets Documentation](#2-datasets-documentation)
+3. [Step-by-Step Running Guide](#3-step-by-step-running-guide)
 
      3.1. [Overview](#31-overview)
      
